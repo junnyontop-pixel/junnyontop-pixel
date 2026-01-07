@@ -1,6 +1,6 @@
 ## 🚀 Hello, I'm junnyontop-pixel! 👋
 
-로블럭스 스튜디오의 정교한 로직에서 시작해, 이제는 React와 Supabase로 나만의 서비스를 빌드하고 있는 개발자입니다. 보안에 관심이 많으며, 효율적이고 깔끔한 코드를 지향합니다.
+로블럭스 스튜디오의 정교한 로직에서 시작해, 이제는 React와 Supabase로 나만의 서비스를 빌드하고 있는 개발자입니다. 게임개발에 관심이 많으며, 효율적이고 깔끔한 코드를 지향합니다.
 
 ---
 
@@ -33,12 +33,6 @@
 - **React Blog Project:** 현재 GitHub OAuth와 Supabase를 연동한 블로그 개발 중
 - **Security:** XSS 공격 분석 및 RLS(Row Level Security)를 통한 DB 보안 강화
 - **Automation:** 셀레니움을 활용한 데이터 수집 봇 운영
-
----
-
-## 📊 My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[네깃허브ID]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[네깃허브ID]&layout=compact&theme=tokyonight)
 
 ---
 
