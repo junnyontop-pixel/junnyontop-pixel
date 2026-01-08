@@ -4,6 +4,11 @@ I'm thirteen 😁
 
 ---
 
+## 📊 My Stats
+[![Junny's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnyontop-pixel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
 A developer starting from the sophisticated logic of Roblox Studio, now building custom services with React and Supabase. Passionate about game development and committed to writing clean, efficient code.
 
 ---
