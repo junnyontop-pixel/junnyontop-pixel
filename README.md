@@ -4,7 +4,7 @@ I'm thirteen 😁
 
 ---
 
-로블럭스 스튜디오의 정교한 로직에서 시작해, 이제는 React와 Supabase로 나만의 서비스를 빌드하고 있는 개발자입니다. 게임개발에 관심이 많으며, 효율적이고 깔끔한 코드를 지향합니다.
+A developer starting from the sophisticated logic of Roblox Studio, now building custom services with React and Supabase. Passionate about game development and committed to writing clean, efficient code.
 
 ---
 
@@ -34,9 +34,10 @@ I'm thirteen 😁
 ---
 
 ## 🐛 Recent Challenges (Blog & Dev Log)
-- **React Blog Project:** 현재 GitHub OAuth와 Supabase를 연동한 블로그 개발 중
-- **Security:** XSS 공격 분석 및 RLS(Row Level Security)를 통한 DB 보안 강화
-- **Automation:** 셀레니움을 활용한 데이터 수집 봇 운영
+
+- **React Blog Project:** Developing a modern blog integrated with GitHub OAuth and Supabase.
+- **Security:** Analyzing XSS vulnerabilities and strengthening database security through RLS (Row Level Security).
+- **Automation:** Operating data collection bots using Selenium for automated workflows.
 
 ---
 
