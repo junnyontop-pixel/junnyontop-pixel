@@ -5,7 +5,7 @@ I'm thirteen 😁
 ---
 
 ## 📊 My Stats
-[![Junny's GitHub stats](https://github-readme-stats.vercel.app/api?username=junnyontop-pixel&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Junny's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayj8201&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
