@@ -35,7 +35,7 @@ A developer starting from the sophisticated logic of Roblox Studio, now building
 
 ## 🐛 Recent Challenges (Blog & Dev Log)
 
-- **React Blog Project:** Developing a modern blog integrated with GitHub OAuth and Supabase.
+- **React Blog Project:** Developing a modern blog integrated with GitHub/Google OAuth and Supabase.
 - **Security:** Analyzing XSS vulnerabilities and strengthening database security through RLS (Row Level Security).
 - **Automation:** Operating data collection bots using Selenium for automated workflows.
 
