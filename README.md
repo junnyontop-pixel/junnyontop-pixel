@@ -53,3 +53,6 @@ A developer starting from the sophisticated logic of Roblox Studio, now building
 ## 📫 Contact Me
 - **Blog:** https://blog-eta-nine-33.vercel.app/
 
+- **velog**
+https://velog.io/@junnyontop-pixel/
+
