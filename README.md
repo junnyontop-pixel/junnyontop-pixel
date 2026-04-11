@@ -60,6 +60,4 @@ https://velog.io/@junnyontop-pixel/
 
 오픈소스 기여
 
-- https://github.com/nodejs/node/pull/61669
 - https://github.com/nodejs/node/pull/61653
-- https://github.com/vercel/next.js/pull/89487
