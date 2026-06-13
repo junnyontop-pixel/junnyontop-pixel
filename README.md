@@ -64,3 +64,5 @@
 ---
 
 <p align="center">⭐️ 제 개발 여정이 흥미로우셨다면 Star를 눌러 응원해주세요! 언제나 배우고 성장합니다. ⭐️</p>
+
+https://discord.gg/7PkTjFjGy
