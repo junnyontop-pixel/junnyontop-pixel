@@ -5,7 +5,7 @@
 ---
 
 #### `$ whoami`
-- **Fields** : 
+- **Fields** : web full-stack
 - **Links** : 🔗 [Project] 아직없음 | 🔗 [Contact]junny.on.top@gmail.com
 
 #### `$ stack`
