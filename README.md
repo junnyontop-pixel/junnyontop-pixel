@@ -6,7 +6,7 @@
 
 #### `$ whoami`
 - **Fields** : web full-stack
-- **Links** : 🔗 [Project] 아직없음 | 🔗 [Contact]junny.on.top@gmail.com
+- **Links** : 🔗 [Project] 아직없음 | 🔗 [Contact](junny.on.top@gmail.com)
 
 #### `$ stack`
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,vite,supabase,vercel,python,flask,sqlite,electron,pytorch,discord,git,github,vsc,npm&perline=12" />
