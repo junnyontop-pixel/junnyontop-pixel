@@ -5,7 +5,7 @@
 ---
 
 #### `$ whoami`
-- **Fields** : 여기에 주로 다루는 분야를 입력하세요 (예: Full-stack, Discord Bot 등)
+- **Fields** : 
 - **Links** : 🔗 [Project] 아직없음 | 🔗 [Contact]junny.on.top@gmail.com
 
 #### `$ stack`
